@@ -20,6 +20,9 @@
 /categories
   Link: </webpack-runtime-ff132c5c5a8fb7139b08.js>; rel=preload; as=script
   Link: </0-91dd1ccc8a0ea79f84b7.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-ff132c5c5a8fb7139b08.js>; rel=preload; as=script
+  Link: </0-91dd1ccc8a0ea79f84b7.js>; rel=preload; as=script
 /pages/contacts/
   Link: </webpack-runtime-ff132c5c5a8fb7139b08.js>; rel=preload; as=script
   Link: </0-91dd1ccc8a0ea79f84b7.js>; rel=preload; as=script
@@ -36,9 +39,6 @@
   Link: </webpack-runtime-ff132c5c5a8fb7139b08.js>; rel=preload; as=script
   Link: </0-91dd1ccc8a0ea79f84b7.js>; rel=preload; as=script
 /posts/the-birth-of-movable-type/
-  Link: </webpack-runtime-ff132c5c5a8fb7139b08.js>; rel=preload; as=script
-  Link: </0-91dd1ccc8a0ea79f84b7.js>; rel=preload; as=script
-/pages/about/
   Link: </webpack-runtime-ff132c5c5a8fb7139b08.js>; rel=preload; as=script
   Link: </0-91dd1ccc8a0ea79f84b7.js>; rel=preload; as=script
 /tag/design
